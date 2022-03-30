@@ -1,0 +1,31 @@
+body {
+  font-family: 'Didot', Georgia, 'Times New Roman', serif;
+  background-color: #E8E1D9;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
+
+#title {
+  text-align: center;
+  font-size: 4em;
+  color: #125C13;
+  padding-bottom: 30px;
+  font-weight: bold;
+}
+
+.home li {
+  font-size: 1.5em;
+  padding-bottom: 10px;
+}
+
+h1 {
+  color: #125C13;
+  font-weight: bolder;
+}
+
+h3, h4 {
+  color: #3E7C17;
+}
